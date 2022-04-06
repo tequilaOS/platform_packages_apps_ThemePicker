@@ -124,7 +124,7 @@ android_app {
         "default_permissions_com.android.wallpaper.xml",
     ],
 
-    overrides: ["WallpaperPicker2", "WallpaperPicker"],
+    overrides: ["WallpaperPicker2", "WallpaperPicker", "WallpaperCropper"],
 }
 
 prebuilt_etc_xml {
