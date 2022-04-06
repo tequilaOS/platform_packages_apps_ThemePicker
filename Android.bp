@@ -145,7 +145,7 @@ android_app {
         "privapp_whitelist_com.android.wallpaper.xml",
         "default_permissions_com.android.wallpaper.xml",
     ],
-    overrides: ["WallpaperPicker", "WallpaperPicker2"],
+    overrides: ["WallpaperPicker", "WallpaperPicker2", "WallpaperCropper"],
 }
 
 prebuilt_etc_xml {
