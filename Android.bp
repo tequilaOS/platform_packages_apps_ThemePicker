@@ -122,6 +122,7 @@ android_app {
     required: [
         "privapp_whitelist_com.android.wallpaper.xml",
         "default_permissions_com.android.wallpaper.xml",
+        "ThemesStub",
     ],
 
     overrides: ["WallpaperPicker2", "WallpaperPicker", "WallpaperCropper"],
